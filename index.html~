@@ -1,0 +1,153 @@
+<!doctype html>  
+
+<!--[if lt IE 7 ]> <html lang="en" class="no-js ie6"> <![endif]-->
+<!--[if IE 7 ]>    <html lang="en" class="no-js ie7"> <![endif]-->
+<!--[if IE 8 ]>    <html lang="en" class="no-js ie8"> <![endif]-->
+<!--[if IE 9 ]>    <html lang="en" class="no-js ie9"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--> <html lang="en" class="no-js"> <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+  <title>Yuen Lau</title>
+  <meta name="description" content="Home page of Yuen Lau.">
+  <meta name="author" content="Yuen Lau">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="shortcut icon" href="/favicon.ico">
+  <link rel="apple-touch-icon" href="/apple-touch-icon.png">
+
+  <link rel="stylesheet" href="css/style.css?v=2">
+  <script src="js/libs/modernizr-1.6.min.js"></script>
+
+</head>
+
+<body>
+
+  <div id="container">
+    <header>
+
+    </header>
+    
+    <nav>
+      <ul>
+	<li><a class="current" href="#about">about</a></li>
+	<li><a href="#blog">journal</a></li>
+	<li><a href="#work">projects</a></li>
+	<li><a href="#credits">credits</a></li>
+	<li><a href="#downloads">goodies</a></li>
+      </ul>
+    </nav>
+    
+    <div id="about">
+      Nam iaculis sodales orci in molestie. Integer placerat mi nec
+      urna molestie scelerisque. Aenean quam neque, egestas euismod
+      pretium at, ultrices a velit. Mauris placerat semper lectus, sit
+      amet ultricies lectus mattis id. Curabitur non enim urna, id
+      suscipit sem. Aenean vehicula lorem non justo sollicitudin
+      fermentum. Duis iaculis enim commodo metus imperdiet sit amet
+      dapibus arcu facilisis. Ut sed purus lectus, id fermentum
+      quam. Integer eu sem dolor, in semper justo. Donec ac libero
+      augue, a placerat erat. Duis nulla lacus, porttitor non dapibus
+      ac, dapibus in risus. Vestibulum ante ipsum primis in faucibus
+      orci luctus et ultrices posuere cubilia Curae; Etiam
+      pellentesque tristique nunc eget fermentum. Quisque varius,
+      sapien non mollis facilisis, libero nulla feugiat eros, vitae
+      blandit magna augue vel est. Vestibulum eget velit
+      augue. Integer nulla nibh, sodales at iaculis eget, condimentum
+      hendrerit quam. Vestibulum ac velit turpis, non tempor est.
+    </div>
+    
+    <div id="blog">
+      Quisque non purus vel quam consequat aliquet. Cum sociis natoque
+      penatibus et magnis dis parturient montes, nascetur ridiculus
+      mus. Cum sociis natoque penatibus et magnis dis parturient
+      montes, nascetur ridiculus mus. Pellentesque vitae volutpat
+      orci. Etiam tristique molestie augue at faucibus. Mauris pretium
+      dignissim lobortis. Donec a odio quam, in vulputate nulla. Fusce
+      at enim id neque consectetur condimentum. Suspendisse euismod
+      erat in nisl sagittis vestibulum. Donec suscipit interdum
+      libero, sit amet sollicitudin nunc tincidunt id. Vestibulum
+      auctor leo enim, id hendrerit augue. Nam ac mi non odio bibendum
+      volutpat.
+    </div>
+
+    <div id="work">
+      Aenean egestas, massa sit amet consequat sagittis, odio nulla
+      porttitor tortor, ac aliquam odio lorem a urna. Phasellus eu
+      dolor vitae sem iaculis consequat. Curabitur mollis diam
+      venenatis turpis faucibus cursus. Proin sit amet augue ac arcu
+      lobortis ornare at quis odio. Vestibulum sed felis sit amet dui
+      vestibulum gravida. Nunc ornare faucibus facilisis. Aliquam a
+      tellus metus. Donec eu porttitor nibh. Maecenas vitae quam
+      tellus, laoreet accumsan turpis. Vestibulum volutpat convallis
+      faucibus. Etiam vulputate arcu justo, nec bibendum
+      elit. Praesent tempor libero vitae lacus pharetra
+      laoreet. Aliquam at augue eget est interdum rhoncus quis id
+      sapien. Proin vestibulum sapien velit. Cras consectetur aliquam
+      lacus, et cursus nisi scelerisque id. Aliquam sagittis
+      adipiscing egestas. Vestibulum viverra lacus suscipit dolor
+      commodo eget consequat magna aliquam. Nam purus turpis, interdum
+      a mattis tincidunt, mattis vitae nulla. Duis imperdiet risus vel
+      tellus dapibus id tristique velit egestas.
+    </div>
+
+    <div id="credits">
+      Pellentesque habitant morbi tristique senectus et netus et
+      malesuada fames ac turpis egestas. Nam euismod, turpis vel
+      vestibulum condimentum, lacus justo ultricies massa, in pretium
+      massa ante in ligula. Suspendisse potenti. Donec a arcu
+      quam. Nulla facilisi. Pellentesque luctus molestie
+      iaculis. Vestibulum tristique lacus eu ipsum pellentesque
+      rutrum. Mauris a dolor sem. Suspendisse euismod faucibus sem
+      vitae porttitor. Donec auctor consequat mi vitae
+      aliquet. Aliquam aliquam, lectus a bibendum porta, tellus mi
+      pellentesque nunc, sed vehicula mi elit non turpis. Integer sit
+      amet ornare arcu. Curabitur sollicitudin, erat et lobortis
+      laoreet, lacus dui blandit nibh, nec pellentesque nibh felis sed
+      dolor. Maecenas id arcu sed lacus mattis congue sit amet a
+      sem. Mauris tristique vestibulum augue, vitae tempor lorem
+      interdum sit amet.
+    </div>
+   
+    <footer>
+
+    </footer>
+  </div> <!-- end of #container -->
+
+
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.js"></script>
+  <script>!window.jQuery && document.write(unescape('%3Cscript src="js/libs/jquery-1.4.2.js"%3E%3C/script%3E'))</script>
+  
+  
+  <!-- scripts concatenated and minified via ant build script-->
+  <script src="js/plugins.js"></script>
+  <script src="js/script.js"></script>
+  <!-- end concatenated and minified scripts-->
+  
+  
+  <!--[if lt IE 7 ]>
+    <script src="js/libs/dd_belatedpng.js"></script>
+    <script> DD_belatedPNG.fix('img, .png_bg'); </script>
+  <![endif]-->
+
+  <!-- yui profiler and profileviewer - remove for production -->
+  <script src="js/profiling/yahoo-profiling.min.js"></script>
+  <script src="js/profiling/config.js"></script>
+  <!-- end profiling code -->
+
+
+  <!-- change the UA-XXXXX-X to be your site's ID -->
+  <script>
+   var _gaq = [['_setAccount', 'UA-XXXXX-X'], ['_trackPageview']];
+   (function(d, t) {
+    var g = d.createElement(t),
+        s = d.getElementsByTagName(t)[0];
+    g.async = true;
+    g.src = ('https:' == location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    s.parentNode.insertBefore(g, s);
+   })(document, 'script');
+  </script>
+  
+</body>
+</html>
